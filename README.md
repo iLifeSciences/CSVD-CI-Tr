@@ -10,7 +10,7 @@ The project implements a transformer-based deep learning model for the detection
 ## Authors
 Lili Huang#, Zhuoyuan Li#, Xiaolei Zhu#, Hui Zhao, Chenglu Mao, Zhihong Ke, Yuting Mo, Dan Yang, Yue Cheng, Ruomeng Qin, Zheqi Hu, Pengfei Shao, Ying Chen, Min Lou*, Kelei He*, Yun Xu*
 
-# These authors contributed equally
+**# These authors contributed equally**
 * Corresponding authors: Yun Xu (xuyun20042001@aliyun.com), Kelei He (hkl@nju.edu.cn), Min Lou (lm99@zju.edu.cn)
 
 ## Reference
